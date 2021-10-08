@@ -1,0 +1,5 @@
+﻿  discounted bill.cpp
+C:\Users\Admin\source\repos\discounted bill\discounted bill.cpp(14,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\discounted bill\discounted bill.cpp(19,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\discounted bill\discounted bill.cpp(24,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  discounted bill.vcxproj -> C:\Users\Admin\source\repos\discounted bill\Debug\discounted bill.exe
